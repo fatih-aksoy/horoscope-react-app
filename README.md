@@ -7,16 +7,12 @@
 
 Project aims to create a horoscope app.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
 001-Horoscope App(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -78,6 +74,4 @@ Build a Horoscope App using ReactJS.
 
 ## Notes
 
-- You can add additional functionalities to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
